@@ -35,7 +35,6 @@ int main(void) {
 		int stringLength = countWords(input);
 		cout <<"Word count: "<< stringLength << endl;
 
-
 	}
 	return 0;
 }
